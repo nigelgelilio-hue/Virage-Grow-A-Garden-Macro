@@ -1,3 +1,4 @@
+auto got key and download the v1.1
 # Virage Grow A Garden Macro
 A macro for the Roblox game "Grow a Garden"
 
